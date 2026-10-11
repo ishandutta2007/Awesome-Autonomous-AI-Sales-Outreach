@@ -106,11 +106,11 @@ Welcome to the ultimate curated directory of **autonomous AI sales outreach plat
 
 
 
-## 🏢 SaaS / Commercial Platforms
+## 🏢 SaaS / Commercial Platforms 💼
 
+> 📈 **Market Landscape & Structure:** The AI sales outreach and agentic revenue orchestration market is valued at approximately **$4.8B in 2026** (projected to exceed **$63.5B by 2032** at ~38% CAGR). The sector is **highly fragmented and point-solution heavy** rather than "winner-take-all", with enterprise teams typically stitching together 3–5 specialized tools (signal capture, data enrichment, deliverability, LLM personalization, and CRM synchronization) while aggressive consolidation pressure mounts from CRM giants and all-in-one AI SDR challengers. 🌐🔍
 
-
-The autonomous AI sales outreach market spans **CRM-native outbound agents** (Salesforce Hunter) that integrate **deeply with Sales Cloud and work over weeks with persistent memory**, **AI-native SDR platforms** (11x.ai, Artisan, AiSDR) that **autonomously prospect, personalize, and book meetings**, and **sales engagement platforms** (Regie.ai, Reply.io, Instantly) that **augment human reps with AI-powered sequencing and deliverability**. **Salesforce Hunter** is **included in Max Edition ($550/user/month)** . **AiSDR** publishes pricing at **$250–$2,500/month** based on contacts . **Regie.ai** starts at **$41/month** (Pro, annual) with **5,000 credits** .
+The autonomous AI sales outreach market spans **CRM-native outbound agents** (Salesforce Hunter) that integrate **deeply with Sales Cloud and work over weeks with persistent memory**, **AI-native SDR platforms** (11x.ai, Artisan, AiSDR) that **autonomously prospect, personalize, and book meetings**, and **sales engagement platforms** (Regie.ai, Reply.io, Instantly) that **augment human reps with AI-powered sequencing and deliverability**.
 
 
 
@@ -131,53 +131,56 @@ The autonomous AI sales outreach market spans **CRM-native outbound agents** (Sa
 
 
 
-## 🔓 Open-Source GitHub Projects
-
-
+## 🔓 Open-Source GitHub Projects 💻
 
 *Sorted by GitHub_Stars_Count (Descending)* 🌟
 
+- **[Warmbly](https://github.com/warmbly/warmbly)** [![Stars](https://img.shields.io/github/stars/warmbly/warmbly?style=social&color=white)](https://github.com/warmbly/warmbly/stargazers) 🛡️  
+  **The largest open-source B2B cold outreach and email warmup service**, open-source. **Runs cold email campaigns from mailboxes you already own and warms them so they keep landing in the inbox** . Opens, clicks, and replies land in a shared dashboard live . Features: multi-step sequences with per-mailbox caps, unified inbox, CRM with pipelines, warmup pool of monitored mailboxes, deliverability management, visual reply playbooks with AI steps, and Go worker execution planes . Self-hostable with one command and zero cloud lock-in . 📧
 
+- **[B2B SDR Agent Template](https://github.com/iPythoning/b2b-sdr-agent-template)** [![Stars](https://img.shields.io/github/stars/iPythoning/b2b-sdr-agent-template?style=social&color=white)](https://github.com/iPythoning/b2b-sdr-agent-template/stargazers) 🌐  
+  **Open-source AI SDR template for B2B export and outreach**. Built on OpenClaw with a **10-stage autonomous sales pipeline, 10 cron jobs, 4-engine memory architecture**, and native **multi-channel outreach across WhatsApp, Telegram, and Email** . Handles lead generation, intent discovery, automated messaging, and qualification on autopilot . 🤖
 
-- **[OpenCloser](https://github.com/issacops/opencloser)** [![Stars](https://img.shields.io/github/stars/issacops/opencloser?style=social&color=white)](https://github.com/issacops/opencloser/stargazers)  
+- **[Multi-Agent AI SDR Flink Orchestrator](https://github.com/thefalc/multi-agent-ai-sdr-flink-orchestrator)** [![Stars](https://img.shields.io/github/stars/thefalc/multi-agent-ai-sdr-flink-orchestrator?style=social&color=white)](https://github.com/thefalc/multi-agent-ai-sdr-flink-orchestrator/stargazers) ⚡  
+  **Event-driven multi-agent AI SDR orchestrator built on Apache Flink**. Demonstrates an enterprise-scale architecture for streaming lead qualification, trigger detection, agentic research, and real-time event-driven outbound message dispatching . 📊
 
-  **Open-source AI SDR & AI sales platform**, MIT licensed. **The most complete open-source AI sales team** — **AI Sales Strategist generates ICP using SPIN & Challenger frameworks** . **AI Lead Researcher does autonomous lead hunting with scoring and qualification, full local-first CRM with Kanban pipeline** . **AI Caller (SDR) is a real-time AI voice agent** powered by Google Gemini (also supports OpenAI Realtime and ElevenLabs ConvAI) with **built-in Twilio phone lines, live transcription, sentiment analysis, objection detection, and power dialing** . **AI Sales Coach offers objection sparring training with 3 difficulty levels and 12 objection archetypes** . **AI Sales Manager does post-call debrief with auto-generated follow-up emails and call analytics** . **Runs fully in demo mode with no API key** . **Built with Tauri, React 19, Rust, and Gemini** . **Cost: Free vs $280–$1,000+/month per seat for SaaS alternatives** . 🚀
+- **[B2B SDR Hermes Skill](https://github.com/iPythoning/b2b-sdr-hermes-skill)** [![Stars](https://img.shields.io/github/stars/iPythoning/b2b-sdr-hermes-skill?style=social&color=white)](https://github.com/iPythoning/b2b-sdr-hermes-skill/stargazers) 🎯  
+  **Autonomous AI SDR skill for Hermes Agent framework**. Autonomously discovers target business buyers, qualifies inbound and outbound leads, sends personalized outreach sequences, and manages CRM pipelines across WhatsApp, Email, and Telegram for international B2B commerce . 🤝
 
+- **[AI SDR (philtsip)](https://github.com/philtsip/aisdr)** [![Stars](https://img.shields.io/github/stars/philtsip/aisdr?style=social&color=white)](https://github.com/philtsip/aisdr/stargazers) 📋  
+  **Lightweight open-source AI SDR agent**. Connects with Google Sheets to autonomously perform contact discovery, prospect research, email generation, and structured sales intelligence enrichment with pluggable LLMs . 🔍
 
+- **[AgentSDR](https://github.com/Kandid-ai/AgentSDR)** [![Stars](https://img.shields.io/github/stars/Kandid-ai/AgentSDR?style=social&color=white)](https://github.com/Kandid-ai/AgentSDR/stargazers) 🤖  
+  **Self-hosted open-source AI SDR engine**. Features automated email sequences, LinkedIn and WhatsApp multi-channel outreach, prospect enrichment tables, and an AI CRM that automatically classifies every incoming prospect response and drafts personalized replies with BYO AI API keys . 📬
 
-- **[Warmbly](https://github.com/warmbly/warmbly)** [![Stars](https://img.shields.io/github/stars/warmbly/warmbly?style=social&color=white)](https://github.com/warmbly/warmbly/stargazers)  
+- **[AI SDR / BDR Agent (Bright Data)](https://github.com/brightdata/ai-sdr-bdr-agent)** [![Stars](https://img.shields.io/github/stars/brightdata/ai-sdr-bdr-agent?style=social&color=white)](https://github.com/brightdata/ai-sdr-bdr-agent/stargazers) 🕵️  
+  **Autonomous AI-powered BDR/SDR system** that automates real-time lead discovery, buying trigger detection, executive contact research, hyper-personalized outreach copywriting, and CRM integration using Bright Data web intelligence scrapers . 🌐
 
-  **The largest open-source B2B cold outreach and email warmup service**, open-source. **Runs cold email campaigns from mailboxes you already own and warms them so they keep landing in the inbox** . **Opens, clicks, and replies land in a shared dashboard the moment they happen** . **AI-native — your team and its agents work in it together, live** . **Features: multi-step sequences with per-mailbox caps, unified inbox, CRM with pipelines and deals, warmup pool of monitored mailboxes (not throwaway accounts), deliverability management, visual reply playbooks with AI steps, HubSpot/Slack/Zapier integrations, realtime presence** . **Control plane (backend API, Postgres, Redis, event bus) + execution plane of interchangeable Go workers that send and sync mail** . **Self-hosting with no cloud account of any kind** — one command brings up the whole platform on local, open-source pieces . **Envelope encryption with local AES master key or AWS KMS** . 🛡️
+- **[Revenue-OS](https://github.com/personizeai/revenue-os)** [![Stars](https://img.shields.io/github/stars/personizeai/revenue-os?style=social&color=white)](https://github.com/personizeai/revenue-os/stargazers) 💼  
+  **Open-source alternative to HubSpot Prospecting Agent, Artisan, and 11x**. Provides a full revenue operations automation runtime for signal-driven prospecting, personalized outreach copy, dynamic lead enrichment, and autonomous pipeline acceleration at negligible compute cost . 🚀
 
+- **[OpenCloser v2](https://github.com/issacops/opencloser-v2)** [![Stars](https://img.shields.io/github/stars/issacops/opencloser-v2?style=social&color=white)](https://github.com/issacops/opencloser-v2/stargazers) 🎙️  
+  **Open-source AI SDR & AI sales platform with real-time voice and desktop runtime**. Built with Tauri, React 19, Rust, and Google Gemini . Features an AI Sales Strategist (SPIN & Challenger frameworks), AI Lead Researcher, AI Caller with Twilio integration, objection sparring coach, and post-call analytics debriefer running locally with zero cloud subscription fees . 🥊
 
+- **[Simple Sales GPT](https://github.com/BOFOII/simple-sales-gpt)** [![Stars](https://img.shields.io/github/stars/BOFOII/simple-sales-gpt?style=social&color=white)](https://github.com/BOFOII/simple-sales-gpt/stargazers) 🛠️  
+  **Modular Go package for building sales conversation agents**, MIT licensed. Features session-managed sales conversations, vector knowledge bases for products and promotions, stage-based progression, objection handling, and LangChainGo integrations . 🧠
 
-- **[ColdScout](https://github.com/colddsam/coldscout)** [![Stars](https://img.shields.io/github/stars/colddsam/coldscout?style=social&color=white)](https://github.com/colddsam/coldscout/stargazers)  
+- **[AI Sales Outreach LangGraph](https://github.com/AIXerum/AI-Sales-Outreach-Langgraph)** [![Stars](https://img.shields.io/github/stars/AIXerum/AI-Sales-Outreach-Langgraph?style=social&color=white)](https://github.com/AIXerum/AI-Sales-Outreach-Langgraph/stargazers) 🕸️  
+  **Graph-based agentic sales outreach workflow built on LangGraph**. Implements cyclical multi-step reflection loops for lead qualification, account research, hyper-personalized copy generation, and human-in-the-loop review . 🔄
 
-  **Autonomous AI-powered B2B lead generation SaaS**, open-source. **Discovers local businesses via Google Places, qualifies them with Groq Llama 3, and sends hyper-personalized cold email campaigns** . **Pipeline stages: Google Places API → Playwright/BeautifulSoup scraping → Groq AI qualification → Groq AI email generation → Brevo SMTP sending** . **Each stage independently schedulable via jobs_config.json with hour/minute precision** . **Job Manager allows pausing, resuming, and manual triggering of any stage from dashboard** . **Security: strict CSP headers, sandboxed iframe, HTML validation with 500KB size cap** . **Built with FastAPI, React 19, PostgreSQL, Supabase Auth, and Razorpay billing** . 🎯
+- **[AI Sales Agent (Dvbxtreme)](https://github.com/Dvbxtreme/ai-sales-agent)** [![Stars](https://img.shields.io/github/stars/Dvbxtreme/ai-sales-agent?style=social&color=white)](https://github.com/Dvbxtreme/ai-sales-agent/stargazers) 🖥️  
+  **Open-source AI-powered sales agent built with Next.js 15**. Generates marketing content, finds target leads, and automates outreach emails entirely locally with Ollama (zero API costs), SQLite, JWT auth, and Tailwind CSS . 🤖
 
+- **[ColdScout](https://github.com/colddsam/coldscout)** [![Stars](https://img.shields.io/github/stars/colddsam/coldscout?style=social&color=white)](https://github.com/colddsam/coldscout/stargazers) 🎯  
+  **Autonomous AI-powered B2B lead generation SaaS**, open-source. Discovers local businesses via Google Places, qualifies them with Groq Llama 3, and dispatches cold email campaigns via Brevo SMTP with scheduled job management . 📍
 
+- **[ColdPost](https://github.com/Avika2211/ColdPost)** [![Stars](https://img.shields.io/github/stars/Avika2211/ColdPost?style=social&color=white)](https://github.com/Avika2211/ColdPost/stargazers) 💌  
+  **Lightweight cold email automation tool** for founders and students. Features clean web UI, recipient CSV upload, dynamic {name} template variable interpolation, resume/pitch deck attachments, and bulk delivery via Gmail SMTP . ✉️
 
-- **[simple-sales-gpt](https://github.com/BOFOII/simple-sales-gpt)** [![Stars](https://img.shields.io/github/stars/BOFOII/simple-sales-gpt?style=social&color=white)](https://github.com/BOFOII/simple-sales-gpt/stargazers)  
-
-  **Modular Go package for building sales conversation agents**, MIT licensed. **One agent session per conversation** with shared knowledge base for products, promotions, and vector search . **Configurable LLM model — core package does not hardcode a model provider** . **Configurable vector store — Chroma, Milvus, Pinecone, or any LangChainGo-compatible store** . **Tool registry with named tools, descriptions, parameters, and handlers** . **Conversation stages and interest levels** . **Optional semantic enrichment before storing products or promotions in vectors** . **Step-based execution for reasoning, tool selection, tool execution, and final response generation** . **Uses LangChainGo for LLM, embedding, memory, and vector store integrations** . 🛠️
-
-
-
-- **[ColdPost](https://github.com/Avika2211/ColdPost)** [![Stars](https://img.shields.io/github/stars/Avika2211/ColdPost?style=social&color=white)](https://github.com/Avika2211/ColdPost/stargazers)  
-
-  **Lightweight email automation tool for cold outreach**, open-source. **Designed to simplify cold outreach for students and entrepreneurs** . **Upload recipient lists via CSV, personalize messages using {name} variables, attach files like resumes or pitch decks, and send customized emails in bulk through Gmail SMTP** . **Clean and intuitive web interface** . **Built with HTML, JavaScript, and Python (Flask)** . **A free and efficient alternative to expensive outreach platforms** . 📧
-
-
-
-- **[AI Sales Agent (Dvbxtreme)](https://github.com/Dvbxtreme/ai-sales-agent)** [![Stars](https://img.shields.io/github/stars/Dvbxtreme/ai-sales-agent?style=social&color=white)](https://github.com/Dvbxtreme/ai-sales-agent/stargazers)  
-
-  **Open-source AI-powered sales agent built with Next.js 15**, open-source. **Generates content, finds leads, and automates outreach — all running locally with Ollama (no API costs)** . **Features: AI Chatbot (local LLM), Content Generator (blog posts, tweets, LinkedIn posts, emails), Lead Finder (scrape potential customers from the web), Auto Outreach (generate personalized outreach emails), Admin Dashboard, Blog** . **Tech stack: Next.js 15 (App Router), Ollama, SQLite, JWT auth, Tailwind CSS** . **No API costs — runs entirely locally** . 🖥️
-
-
+- **[OpenCloser (v1)](https://github.com/issacops/opencloser)** [![Stars](https://img.shields.io/github/stars/issacops/opencloser?style=social&color=white)](https://github.com/issacops/opencloser/stargazers) 🏛️  
+  **Original open-source AI SDR repository**, MIT licensed. Laid the groundwork for autonomous local-first AI lead hunting, qualification, voice phone agents, and sales coaching . 🔧
 
 ---
-
-
 
 ## 🛠️ How to Contribute
 
